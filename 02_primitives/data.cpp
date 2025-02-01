@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+  // this is data types
   int teaLeave=  50;
   float waterTemp= 85.5;
   double priceofTea= 299.99;
