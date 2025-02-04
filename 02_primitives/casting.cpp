@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
   // this is casting
+  // this is datatype casting
   float teaPrice = 48.55;
   int roundedPrice = (int) teaPrice;
 
@@ -12,5 +13,4 @@ int main(){
 
   cout << totalprice << endl;
 
-  return 0;
-}
+  retu
