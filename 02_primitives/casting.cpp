@@ -7,6 +7,8 @@ int main(){
   // this is datatype casting
   // data types
   // and casting
+  // tailwind classes
+  
   float teaPrice = 48.55;
   int roundedPrice = (int) teaPrice;
 
