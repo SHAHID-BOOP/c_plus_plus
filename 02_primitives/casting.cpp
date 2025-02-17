@@ -8,7 +8,7 @@ int main(){
   // data types
   // and casting
   // tailwind classes
-  
+  // i have to learn rust
   float teaPrice = 48.55;
   int roundedPrice = (int) teaPrice;
 
