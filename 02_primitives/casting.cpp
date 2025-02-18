@@ -9,6 +9,7 @@ int main(){
   // and casting
   // tailwind classes
   // i have to learn rust
+  // and also solana
   float teaPrice = 48.55;
   int roundedPrice = (int) teaPrice;
 
