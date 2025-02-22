@@ -11,6 +11,7 @@ int main(){
   // i have to learn rust
   // and also solana
   // ccomment for random commit 
+  // random commit day 35
   float teaPrice = 48.55;
   int roundedPrice = (int) teaPrice;
 
